@@ -12,9 +12,12 @@ declare -a dirs_to_append=(
     "/usr/bin"
     "$HOME/bin"
     "$HOME/.dotfiles/bin"
+    "$HOME/.composer/vendor/bin"
     "$HOME/.rvm/bin"
+    "$HOME/.yarn/bin"
     "$(brew --prefix coreutils)/libexec/gnubin" # Add brew-installed GNU core utilities bin
     "$(brew --prefix)/share/npm/bin" # Add npm-installed package bin
+    "$HOME/.gem/ruby/2.5.0/bin"
 )
 
 # Prepend directories to PATH

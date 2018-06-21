@@ -1,0 +1,940 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"no",
+				"notes_for"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"bg",
+				"bgc\tbackground-color: #${1:fff};"
+			],
+			[
+				"ta",
+				"ta-c\ttext-align: center;"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"column",
+				"column-width"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"v",
+				"va-m\tvertical-align: middle;"
+			],
+			[
+				"se",
+				"section\tTag"
+			],
+			[
+				"s",
+				"section\tTag"
+			],
+			[
+				"lin",
+				"line_voltage-value"
+			],
+			[
+				"l",
+				"label\tAttr"
+			],
+			[
+				"o",
+				"option\tTag"
+			],
+			[
+				"op",
+				"optgroup\tTag"
+			],
+			[
+				"f",
+				"fuses-passes-inspection"
+			],
+			[
+				"controls",
+				"controls-passes-inspection"
+			],
+			[
+				"servi",
+				"service_valves-passes-inspection"
+			],
+			[
+				"min",
+				"minCircuitAmps"
+			],
+			[
+				"fan",
+				"fanMotorRPM"
+			],
+			[
+				"compr",
+				"compressorLRA"
+			],
+			[
+				"compres",
+				"compressorRLA"
+			],
+			[
+				"Condensing",
+				"condensingUnit"
+			],
+			[
+				"rate",
+				"ratedControlVolts"
+			],
+			[
+				"rated",
+				"ratedOperatingVolts"
+			],
+			[
+				"e",
+				"should.have.property"
+			],
+			[
+				"tax",
+				"taxForOrder"
+			],
+			[
+				"it",
+				"it\tit() testing"
+			],
+			[
+				"a",
+				"addedItem"
+			],
+			[
+				"shopping",
+				"shoppingCart"
+			],
+			[
+				"sho",
+				"shoppingCart"
+			],
+			[
+				"i",
+				"item"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"pr",
+				"price"
+			],
+			[
+				"S",
+				"ShoppingCart"
+			],
+			[
+				"F",
+				"fToC"
+			],
+			[
+				"c",
+				"celsius"
+			],
+			[
+				"el",
+				"elementsObject"
+			],
+			[
+				"ele",
+				"element2"
+			],
+			[
+				"la",
+				"lastElementChild"
+			],
+			[
+				"ext",
+				"extern-crate\textern crate …;"
+			],
+			[
+				"print",
+				"println\tprintln!(…)"
+			],
+			[
+				"gree",
+				"green2"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"button",
+				"buttonNumber"
+			],
+			[
+				"flex-",
+				"flex-direction"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"con",
+				"contact-form"
+			],
+			[
+				"cont",
+				"contact__form"
+			],
+			[
+				"color",
+				"color-highlight"
+			],
+			[
+				"d",
+				"d:b\tdisplay:block"
+			],
+			[
+				"grid",
+				"grid-lg--4"
+			],
+			[
+				"foo",
+				"footer-module__content"
+			],
+			[
+				"foot",
+				"footer-module__icon"
+			],
+			[
+				"di",
+				"d:ib\tdisplay:inline-block"
+			],
+			[
+				"m",
+				"mb\tmargin-bottom"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"wel",
+				"welcome__title"
+			],
+			[
+				"tr",
+				"transform"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"n",
+				"none"
+			],
+			[
+				"pa",
+				"page-nav"
+			],
+			[
+				"g",
+				"gutter"
+			],
+			[
+				"wri",
+				"write_config"
+			],
+			[
+				"wr",
+				"write_imports"
+			],
+			[
+				"conta",
+				"contact-form__field"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "shell/bash_profile",
+			"settings":
+			{
+				"buffer_size": 1443,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "shell/bash_paths",
+			"settings":
+			{
+				"buffer_size": 1059,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "pack",
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"text",
+				"Text Pastry: Show Clipboard Viewer"
+			],
+			[
+				"prett",
+				"HTMLPrettify"
+			],
+			[
+				"Mini",
+				"Minify::Default File Settings"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"mini",
+				"HTMLPrettify: Set Plugin Options"
+			],
+			[
+				"mark",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"json",
+				"JsonTree: Show Tree"
+			],
+			[
+				"pret",
+				"HTMLPrettify"
+			],
+			[
+				"svg",
+				"SVGO: Prettify SVG"
+			],
+			[
+				"css",
+				"Run eCSStractor (with BEM Nesting)"
+			],
+			[
+				"packa",
+				"Package Control: Discover Packages"
+			],
+			[
+				"emme",
+				"Set Syntax: Emmet"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"form",
+				"CodeFormatter: Format as HTML Syntax"
+			],
+			[
+				"",
+				"A File Icon: Clean Patches"
+			],
+			[
+				"TEXT",
+				"Text Pastry: Paste Lines"
+			],
+			[
+				"mar",
+				"Markdown Preview: Open Markdown Cheat sheet"
+			],
+			[
+				"pck",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"emmet",
+				"Set Syntax: Emmet"
+			],
+			[
+				"emmet:nex",
+				"Emmet: Next Edit Point"
+			],
+			[
+				"Pack",
+				"Package Control: List Packages"
+			],
+			[
+				"P",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 539.0
+	},
+	"console":
+	{
+		"height": 174.0,
+		"history":
+		[
+			"commands",
+			"clear"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/curtsnellgrove/.dotfiles",
+		"/Users/curtsnellgrove/.dotfiles/shell"
+	],
+	"file_history":
+	[
+		"/Users/curtsnellgrove/.dotfiles/shell/functions/gz",
+		"/Users/curtsnellgrove/.dotfiles/shell/functions/homestead",
+		"/Users/curtsnellgrove/Desktop/one_tab_links.html",
+		"/Users/curtsnellgrove/Homestead/Homestead.yaml",
+		"/private/etc/hosts",
+		"/Users/curtsnellgrove/.dotfiles/shell/functions/cv.sh",
+		"/Users/curtsnellgrove/Downloads/gcc-7.1.0/README",
+		"/Users/curtsnellgrove/dotfiles/shell/bash_profile",
+		"/Users/curtsnellgrove/dotfiles/README.md",
+		"/Users/curtsnellgrove/Desktop/one_tab_links_7_6_2017.html",
+		"/Users/curtsnellgrove/.ssh/github2_rsa.pub",
+		"/Users/curtsnellgrove/.ssh/gihub2_rsa.pub",
+		"/Users/curtsnellgrove/.gnupg/pubring.gpg",
+		"/Users/curtsnellgrove/dotfiles/shell/functions/pyserver",
+		"/Users/curtsnellgrove/.siteground/_/public_html/dev_world/index.html",
+		"/Users/curtsnellgrove/web_design/monsterheating/prepros.cfg",
+		"/Users/curtsnellgrove/web_design/templates/site_templates/boo-house/index.html",
+		"/Users/curtsnellgrove/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/curtsnellgrove/Library/Application Support/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/Users/curtsnellgrove/Library/Application Support/Sublime Text 3/Packages/SideBarEnhancements/Default (OSX).sublime-keymap",
+		"/Users/curtsnellgrove/Library/Application Support/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+		"/Users/curtsnellgrove/.bash_history",
+		"/Users/curtsnellgrove/.ssh/private_key.ppk",
+		"/Users/curtsnellgrove/web_design/monsterheating/working/styles/index.css",
+		"/Users/curtsnellgrove/web_design/monsterheating/production/schedule/submit-appt.php",
+		"/Users/curtsnellgrove/web_design/monsterheating/working/js/script.js",
+		"/Users/curtsnellgrove/web_design/monsterheating/compile.sh",
+		"/Users/curtsnellgrove/web_design/monsterheating/working/index.html",
+		"/Users/curtsnellgrove/web_design/monsterheating/production/submit-email.php",
+		"/Users/curtsnellgrove/web_design/monsterheating/working/relevel/index.php",
+		"/Users/curtsnellgrove/web_design/monsterheating/working/life_expectancies/index.html",
+		"/Users/curtsnellgrove/web_design/monsterheating/working/about/index.html",
+		"/Users/curtsnellgrove/web_design/monsterheating/working/schedule/submit-appt.php",
+		"/Users/curtsnellgrove/web_design/monsterheating/compile.sj",
+		"/Users/curtsnellgrove/Library/Application Support/Sublime Text 3/Packages/CSScomb/README.md",
+		"/Users/curtsnellgrove/Library/Application Support/Sublime Text 3/Packages/User/CSScomb.sublime-settings",
+		"/Users/curtsnellgrove/Library/Application Support/Sublime Text 3/Packages/Minify/Minify.sublime-settings",
+		"/Users/curtsnellgrove/Library/Application Support/Sublime Text 3/Packages/User/css_comb-and-minify.sublime-macro",
+		"/Users/curtsnellgrove/web_design/hvac_operations/html/certificate/content/sep_style.min.css",
+		"/Users/curtsnellgrove/Library/Application Support/Sublime Text 3/Packages/User/Minify.sublime-settings",
+		"/Users/curtsnellgrove/web_design/hvac_operations/html/certificate/content/untitled.sublime-macro",
+		"/Users/curtsnellgrove/web_design/hvac_operations/html/certificate/content/csscomb.json",
+		"/Users/curtsnellgrove/Library/Application Support/Sublime Text 3/Packages/CSScomb/CSScomb.sublime-settings",
+		"/Users/curtsnellgrove/web_design/hvac_operations/html/certificate/content/certificate_of_inspection.html",
+		"/Users/curtsnellgrove/web_design/hvac_operations/html/certificate/content/style.css",
+		"/Users/curtsnellgrove/web_design/hvac_operations/html/certificate/content/reset.min.css",
+		"/Users/curtsnellgrove/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/Users/curtsnellgrove/web_design/rules_and_styles/reset.css",
+		"/Users/curtsnellgrove/web_design/workflow_and_tools/web_design_workflow.png",
+		"/Users/curtsnellgrove/web_design/hvac_operations/html/certificate/content/15. Certificate of Inspection.html",
+		"/Users/curtsnellgrove/web_design/hvac_operations/html/certificate/content/sep_style.css",
+		"/Users/curtsnellgrove/web_design/workflow_and_tools/regex_for_dom.js",
+		"/Users/curtsnellgrove/Library/Application Support/CricutDesignSpace/UTILS/CricutUtilCL",
+		"/Users/curtsnellgrove/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+		"/Users/curtsnellgrove/web_design/books/TDD_sitepoint/TDD-in-Nodejs-lesson1.3/README.md",
+		"/Users/curtsnellgrove/web_design/books/TDD_sitepoint/TDD-in-Nodejs-lesson1.3/package.json",
+		"/Users/curtsnellgrove/web_design/hvac_operations/.gitignore",
+		"/Users/curtsnellgrove/Desktop/computing/test/react/.gitignore",
+		"/Users/curtsnellgrove/Desktop/computing/new_monster/automated/src/index.html]",
+		"/Users/curtsnellgrove/Desktop/computing/new_monster/automated/src/index.html",
+		"/Users/curtsnellgrove/.ssh/id_dsa",
+		"/Users/curtsnellgrove/Downloads/accesslog_monsterheating1.curtiswebsites.com_6_25_2017",
+		"/Users/curtsnellgrove/Desktop/siteground_key",
+		"/Users/curtsnellgrove/.bash_profle",
+		"/Users/curtsnellgrove/.dotfiles/shell/bash_paths",
+		"/Users/curtsnellgrove/.dotfiles/shell/bash_profile",
+		"/Users/curtsnellgrove/.dotfiles/shell/bashrc",
+		"/Users/curtsnellgrove/.dotfiles/shell/bash_prompt",
+		"/Users/curtsnellgrove/.dotfiles/shell/inputrc",
+		"/Users/curtsnellgrove/.dotfiles/shell/bash_exports",
+		"/Users/curtsnellgrove/.dotfiles/shell/bash_options",
+		"/private/etc/ssh/ssh_config",
+		"/Users/curtsnellgrove/.ssh/siteground.pub",
+		"/Users/curtsnellgrove/private_key.ppk",
+		"/private/etc/ssh/sshd_config",
+		"/Users/curtsnellgrove/.ssh/github_rsa.pub",
+		"/Users/curtsnellgrove/.ssh/known_hosts",
+		"/Users/curtsnellgrove/.ssh/id_dsa.pub",
+		"/Users/curtsnellgrove/Downloads/authorized_keys (2)",
+		"/Users/curtsnellgrove/.ssh/cws_rsa",
+		"/Users/curtsnellgrove/sshpass-1.04/readme",
+		"/Users/curtsnellgrove/web_design/templates/dev/AdminLTE/README.md",
+		"/Users/curtsnellgrove/web_design/books/TDD_sitepoint/TDD-in-Nodejs-lesson1.3/async-callback-test.js",
+		"/Users/curtsnellgrove/web_design/books/TDD_sitepoint/TDD-in-Nodejs-lesson1.3/async-promise-test.js",
+		"/Users/curtsnellgrove/web_design/books/TDD_sitepoint/project/package.json",
+		"/Users/curtsnellgrove/web_design/books/TDD_sitepoint/project/shopping-cart.js",
+		"/Users/curtsnellgrove/web_design/books/TDD_sitepoint/project/shopping-cart-test.js",
+		"/Users/curtsnellgrove/web_design/books/TDD_sitepoint/TDD-in-Nodejs-lesson1.1/package.json",
+		"/Users/curtsnellgrove/web_design/books/TDD_sitepoint/TDD-in-Nodejs-lesson1.2/package.json",
+		"/Users/curtsnellgrove/Desktop/computing/code/node_testing/package.json",
+		"/Users/curtsnellgrove/.dotfiles/shell/bash_aliases",
+		"/Users/curtsnellgrove/web_design/books/TDD_sitepoint/TDD-in-Nodejs-lesson1.2/.gitignore",
+		"/Users/curtsnellgrove/.bash_profile",
+		"/Users/curtsnellgrove/Desktop/computing/code/fcc_simon/src/js/oscillator.js",
+		"/Users/curtsnellgrove/Desktop/computing/code/fcc_simon/src/js/game_button.js",
+		"/Users/curtsnellgrove/Desktop/computing/code/fcc_simon/src/js/index.js",
+		"/Users/curtsnellgrove/Desktop/computing/code/fcc_simon/src/index.html",
+		"/Users/curtsnellgrove/Desktop/computing/code/fcc_simon/dist/stylesheet.css",
+		"/Users/curtsnellgrove/Desktop/computing/code/fcc_simon/src/script",
+		"/Users/curtsnellgrove/Desktop/computing/code/node_testing/.gitignore",
+		"/Users/curtsnellgrove/Desktop/computing/code/temperature/test/test.js",
+		"/Users/curtsnellgrove/Desktop/computing/code/fcc_simon/package.json",
+		"/Users/curtsnellgrove/Desktop/computing/code/node_testing/shopping-cart-test.js",
+		"/Users/curtsnellgrove/Desktop/computing/code/node_testing/shopping-cart.js",
+		"/Users/curtsnellgrove/Desktop/computing/code/fcc_simon/src/js/oscillator_original.js",
+		"/Users/curtsnellgrove/Desktop/computing/code/fcc_simon/src/js/create_event_listeners_mousedown.js",
+		"/Users/curtsnellgrove/Desktop/computing/code/fcc_simon/src/js/functions.js",
+		"/Users/curtsnellgrove/Desktop/computing/code/temperature/app.js",
+		"/Users/curtsnellgrove/Desktop/computing/code/fcc_simon/.gitignore",
+		"/Users/curtsnellgrove/Desktop/computing/code/fcc_simon/.babelrc",
+		"/Users/curtsnellgrove/Desktop/computing/code/fcc_simon/test/package.json",
+		"/Users/curtsnellgrove/Desktop/computing/code/fcc_simon/test/test.js",
+		"/Users/curtsnellgrove/Desktop/computing/code/fcc_simon/dist/main.js",
+		"/Users/curtsnellgrove/web_design/monsterheating/dev/setup2.sh",
+		"/Users/curtsnellgrove/web_design/monsterheating/dev/gulpfile2.js",
+		"/Users/curtsnellgrove/Desktop/computing/code/setup.sh",
+		"/Users/curtsnellgrove/Desktop/computing/code/fcc_simon/example/new.js",
+		"/Users/curtsnellgrove/Desktop/computing/code/fcc_simon/example/index.js",
+		"/Users/curtsnellgrove/Desktop/computing/code/fcc_simon/example/next.js",
+		"/Users/curtsnellgrove/Desktop/computing/code/fcc_simon/example/third.js",
+		"/Users/curtsnellgrove/Desktop/computing/code/fcc_simon/wwwroot/index.html",
+		"/Users/curtsnellgrove/Desktop/computing/code/fcc_simon/wwwroot/js/oscillator.js",
+		"/Users/curtsnellgrove/Desktop/computing/code/fcc_simon/wwwroot/js/create_event_listeners.js",
+		"/Users/curtsnellgrove/Desktop/computing/code/fcc_simon/wwwroot/js/simons_turn.js",
+		"/Users/curtsnellgrove/Desktop/computing/code/fcc_simon/wwwroot/js/play_sequence.js",
+		"/Users/curtsnellgrove/Desktop/computing/code/fcc_simon/wwwroot/js/play_sound.js",
+		"/Users/curtsnellgrove/Desktop/computing/code/fcc_simon/wwwroot/js/start_game.js",
+		"/Users/curtsnellgrove/Desktop/computing/code/fcc_simon/wwwroot/js/player_wins.js"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Goodman",
+			"\\.\\d\\d\\n",
+			"\\,",
+			"\\t\\n",
+			"\\n1\\n",
+			"SEER",
+			"Goodman",
+			"Compare",
+			" fetchPriceAjaxLoader",
+			"processingPrice-",
+			"VM3511:1 ",
+			"</",
+			"\"\"",
+			"</",
+			"<select",
+			"class=\"label\"",
+			"class-\"label\"",
+			"    <div class=\"column_heading center-column_heading\">Pass?</div>\n    <div class=\"column_heading right-column_heading\">Details</div>",
+			"    <div class=\"column_heading left-column_heading\">Inspected</div>\n    <div class=\"column_heading center-column_heading\">Description</div>\n    <div class=\"column_heading right-column_heading\">Details</div>",
+			"<select",
+			"        <select",
+			"<input type=\"checkbox\" name=\"\" id=\"\">",
+			"section-heading",
+			"    <div class=\"column_heading left-column_heading\"></div>\n    <div class=\"column_heading left-column_heading\"></div>\n    <div class=\"column_heading left-column_heading\"></div>",
+			"ion\">",
+			":",
+			"\\t",
+			"<h5>",
+			"<h4>",
+			"<h3>",
+			"<h2>",
+			"<h1>",
+			"</?[\\!,\\/,\\.,\\:,\\d,\\=,A-Z,\\s,\\,a-z,\\-,\\;,\\%,\\\"]*>",
+			"</?span[\\:,\\d,\\=,A-Z,\\s,\\,a-z,\\-,\\;,\\%,\\\"]*>",
+			"</?input [\\:,\\d,\\=,A-Z,\\s,\\,a-z,\\-,\\;,\\%,\\\"]*>",
+			"</?t[h,d]>",
+			"</?tr>",
+			"<col>",
+			"</?table>",
+			"</?center>",
+			"corr",
+			"Air F",
+			"Carbon",
+			"Contactors",
+			"<th ",
+			"<td ",
+			"<td>\\s*</td>",
+			"td>\\s*</td>",
+			"td\\s*<",
+			" >",
+			"colspan=\"\\d*\"",
+			" >",
+			"colspan=\"\\d\"",
+			"          <td>\n          </td>",
+			"<br/>",
+			"<p",
+			"</p>",
+			"<p>",
+			" >",
+			"valign=\"[a-z]*\"",
+			"valign=\"[a-z]*'",
+			"height=\"\\d*\"",
+			"</b>",
+			"<b>",
+			"width=\"\\d*\"",
+			" >",
+			"class=\"western\"",
+			"bgcolor\\=\\\"\\#[\\w,\\d]{6}\\\"",
+			".ctl",
+			".cjk",
+			" style=\"[\\:,\\d,=,A-Z,\\s,\\,,a-z,\\-,\\;,\\%,\\.,\\#]*\"?",
+			"style=\"[\\:,\\d,=,A-Z,\\s,\\,a-z,\\-,;,%]*\"?",
+			"</font>",
+			"<font[\\:,\\d,=,A-Z,\\s,\\,a-z,\\-,\"]*>?",
+			"dir=\"ltr\"",
+			"</select>\\n",
+			"<select",
+			"",
+			"hi-volt",
+			"passes-inspection",
+			"input",
+			"\\w\\\"\\w",
+			"myEquipment",
+			"",
+			"</label>",
+			"</label<",
+			"name",
+			"</label>",
+			"x\">",
+			">",
+			"",
+			"fToC\\(",
+			" cToF\\(",
+			"\\n ",
+			"toneKey",
+			"playNotesInSequence",
+			"sequence",
+			"20527",
+			"recharge",
+			"r-22",
+			"\\n",
+			"\\*",
+			",\\d\\d\\d\\d\\d\\d,",
+			",",
+			",\\d\\d\\d\\d\\d\\d,",
+			",\\d\\d\\d\\d\\d\\d",
+			" - ",
+			",,,",
+			"\\n",
+			"Needs Approval\t",
+			"labor\nrecovery\nlabor agreement savings\nlabor discount amount\nlaborTax included\nlaborTax portion\nparts\nparts agreement savings\nparts discount amount\npartsTax included\npartsTax portion",
+			",",
+			"\"",
+			"background-color",
+			"\\n#",
+			"#",
+			"id=",
+			"\"",
+			"\\\"status[\\d]*[-]*[\\w]*",
+			"…",
+			"–",
+			"‘",
+			"”",
+			"“",
+			"’",
+			"span",
+			"fadeOutLeft",
+			"fadeInLeft"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"",
+			"\\n",
+			"",
+			"    <div class=\"column_heading right-column_heading\">Details</div>\n    <div class=\"column_heading center-column_heading\">Pass?</div>",
+			"    <div class=\"column_heading left-column_heading\">Inspected?</div>\n    <div class=\"column_heading center-column_heading\">Description</div>\n    <div class=\"column_heading center-column_heading\">Pass?</div>\n    <div class=\"column_heading right-column_heading\">Details</div>",
+			"<select class=\"select_inspected\"",
+			"    <select",
+			"    <select\n    ",
+			"    <select name=\"_was_inspected\" id=\"_was_inspected\">\n        <option value=\"na\">N/A</option>\n        <option value=\"yes\">YES</option>\n        <option value=\"no\">NO</option>\n    </select>\n    ",
+			"section_heading",
+			"    <div class=\"column_heading left-column_heading\">Inspected</div>\n    <div class=\"column_heading center-column_heading\">Description</div>\n    <div class=\"column_heading right-column_heading\">Details</div>",
+			"",
+			"<th>",
+			"<td>",
+			"",
+			"td>\\n<",
+			"",
+			">",
+			"",
+			">",
+			"",
+			"</select>\\n</div>\\n",
+			"<div class=\"styled-select green rounded\">\\n<select",
+			"<input type=\"checkbox\" id=\"\" name=\"\">",
+			"line-volt",
+			"inspected",
+			"condensingUnitObject",
+			"",
+			"<input type=\"checkbox\">",
+			" convert.fToC(",
+			" convert.cToF(",
+			"\\n",
+			"playSequence",
+			",",
+			"",
+			",",
+			"\\n",
+			",",
+			"",
+			" , ",
+			"\\n",
+			"",
+			"fill",
+			"\\n.",
+			".",
+			"class=",
+			"",
+			"...",
+			"-",
+			"'",
+			"\"",
+			"'",
+			"fadeOut",
+			"fadeIn",
+			"str.charCodeAt(i)",
+			"charDiff",
+			"",
+			"14",
+			"<div class=\"section_row_a\">\n\t\t\t\t\t<div class=\"cell cell-1\"></div>\n\t\t\t\t\t<div class=\"cell cell-2\"></div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"section_row_b\">\n\t\t\t\t\t<div class=\"cell cell-1\"></div>\n\t\t\t\t\t<div class=\"cell cell-2\"></div>\n\t\t\t\t</div>",
+			"column-",
+			"\\n",
+			"portfolio_thumb",
+			"Best Service",
+			"portfolio_",
+			"email",
+			"phone"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "shell/bash_profile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1443,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								557,
+								557
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/ShellScript/Shell-Unix-Generic.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "shell/bash_paths",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1059,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/ShellScript/Shell-Unix-Generic.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 130.0
+	},
+	"pinned_build_system": "",
+	"project": "dotfiles.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"/p",
+				"~/Desktop/monster/blog_posts/cottonwood_30_May_2017.md"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 232.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
